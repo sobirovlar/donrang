@@ -1,0 +1,17 @@
+@media only screen and(max-width:768px) {
+.explor{
+    border: 1px solid red;
+    width: 20vh;
+}
+.excuture{
+    grid-template-columns: 1fr;
+}
+.ilon{
+    display: grid; 
+    grid-template-columns: repeat(2,1fr);
+   
+}
+.excuture{
+    grid-template-columns: 1fr;
+}
+}
